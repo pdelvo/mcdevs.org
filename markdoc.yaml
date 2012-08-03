@@ -1,0 +1,13 @@
+wiki-name: "mcdevs.org"
+
+template-dir: "templates"
+use-default-static: false
+use-default-templates: false
+
+markdown:
+    extensions:
+        - codehilite
+        - def_list
+        - headerid
+        - toc
+        - html_tidy
