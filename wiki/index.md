@@ -4,7 +4,7 @@
 `#mcdevs` is a loose group of developers working on projects that are directly
 or indirectly related to the popular indie hit, [Minecraft][].
 
-There is no process to join mcdevs nor any official member list. There are
+There is no process to join `#mcdevs` nor any official member list. There are
 no responsibilities so long as you follow the [community rules](/irc/rules).
 Individuals who have been around for an extended period of time and have
 proven to be mature and helpful are identified by voice (`+Vv`) in the IRC
