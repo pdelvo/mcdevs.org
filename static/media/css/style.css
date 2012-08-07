@@ -164,7 +164,7 @@ a {
   text-decoration: none; }
   a:hover {
     color: #7f3535; }
-  a[href^="http:"] {
+  a[href^="http:"], a[href^="https:"] {
     text-decoration: underline; }
 
 dl dt {
