@@ -4,7 +4,7 @@ Markdoc does not add the .html suffix when it creates internal links, so
 some minor rewriting is required.
 
     $HTTP["host"] =~ "www.mcdevs.org" {
-        url.redirect = ("^/(.*)" => "http://mcdevs.org/$1")
+        url.redirect = ( "^/(.*)" => "http://mcdevs.org/$1" )
     }
 
     $HTTP["host"] == "mcdevs.org" {
