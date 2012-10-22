@@ -16,6 +16,7 @@ to enforce these rules. Please do not become the exeception.
 - Off topic chatter is perfectly fine so long as you are not interrupting
   on-topic conversation.
 - Do **not** harass Mojang employees. This includes needlessly pinging them.
+- Piracy is condemned and will not be tolerated in any form. This includes attempting to play without a paid minecraft account and circumventing minecraft authentication systems
 
 ## Exploits
 
